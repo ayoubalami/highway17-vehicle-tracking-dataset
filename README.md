@@ -18,5 +18,5 @@ Traffic video and semi automatic vehicle tracking annotations generated using **
 
 The annotation output contains **3,797 frames**, **158 tracks**, and **25,043 bounding boxes**.
 
-- [Download CSV annotations](highway17_yolo26x_deepsort_v2_tracks.csv)
+- [Download CSV annotations](highway17_tracks.csv)
 - [Download MOT tracking annotations](highway17_gt.txt)
